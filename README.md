@@ -6,3 +6,4 @@ qt5学习demo
 - demo2 页面跳转
 - demo3 页面切换
 - demo4 系统托盘
+- demo5 sqlite
